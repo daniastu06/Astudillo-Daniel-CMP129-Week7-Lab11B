@@ -3,11 +3,14 @@ public class MutableStudent {
     // TODO: Create two private fields:
     // 1. name (String)
     // 2. age (int)
-
+    private String name;
+    private int age;
 
     // TODO: Create a constructor that receives name and age.
     // Store the values in the object's fields.
-
+    public MutableStudent(){
+        
+    }
 
     // TODO: Create a getter for name.
 

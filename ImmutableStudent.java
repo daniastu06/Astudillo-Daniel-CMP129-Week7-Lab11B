@@ -27,4 +27,7 @@ public final class ImmutableStudent {
 
     // TODO: Create a displayInfo() method.
     // Display the student's name and age.
+    public void DisplayInfo(){
+        System.out.println("Name: " + name + ", Age: " + age);
+    }
 }
